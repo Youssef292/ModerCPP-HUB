@@ -1,0 +1,6 @@
+Vector created3
+Value :5inserted at:5
+value30Is erased
+data: 40 Appended
+Value at index: 0:10
+data overrided
